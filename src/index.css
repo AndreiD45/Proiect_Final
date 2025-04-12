@@ -1,0 +1,27 @@
+html,
+body {
+  background-image: url('https://images3.alphacoders.com/207/207765.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  color: rgb(255, 255, 255);
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 2px, 0;
+  z-index: 1000;
+}
+
+#root{
+  height: 100%;
+}

@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "janesmith@example.com"
+    },
+    {
+      "id": "7740",
+      "name": "Andrei",
+      "email": "forandrei@yahoo.com",
+      "password": "1",
+      "confirmPassword": "1"
+    },
+    {
+      "id": "1e48",
+      "name": "Vlad",
+      "email": "vlad@yahoo.com",
+      "password": "2",
+      "confirmPassword": "2"
+    }
+  ],
+  "hardware": [
+    {
+      "id": "1",
+      "name": "Laptop Acer Aspire Lite 16",
+      "release date": "19 May 2004",
+      "image": "https://s13emagst.akamaized.net/products/87615/87614809/images/res_077ec3a8be1a47faabfea278db36a345.jpg?width=720&height=720&hash=64E6668A45EF619EC49A930E6741845B"
+    },
+    {
+      "id": "2",
+      "name": "Laptop Gaming Lenovo LOQ 15ARP9",
+      "release date": "19 May 2004",
+      "image": "https://s13emagst.akamaized.net/products/70228/70227512/images/res_ab03bdea923e07e5bab17131b9a1c36a.jpg?width=720&height=720&hash=DFD2B397FF06D685D1E17A164E140552"
+    },
+    {
+      "id": "3",
+      "name": "Laptop Gaming ASUS ROG Zephyrus G16 GA605WV",
+      "release date": "19 May 2004",
+      "image": "https://s13emagst.akamaized.net/products/75397/75396925/images/res_c7b4f8184be38070701d174d8031e09a.jpg?width=720&height=720&hash=9DC1137C09790D0D614F92478B1D9CF5"
+    },
+    {
+      "id": "4",
+      "name": "Laptop Apple MacBook Pro 14",
+      "release date": "19 May 2004",
+      "image": "https://s13emagst.akamaized.net/products/80627/80626261/images/res_6e48dac5ebdc3ffda7e893d02c20eda0.jpg?width=720&height=720&hash=44EEB8979A966C4EE7B64F4E549A2E72"
+    },
+    {
+      "id": "5",
+      "name": "Laptop Gaming MSI Cyborg 15 A13VF",
+      "release date": "19 May 2004",
+      "image": "https://s13emagst.akamaized.net/products/69459/69458890/images/res_f68ec40174ed899a1e36b2a0018f9b69.jpg?width=720&height=720&hash=03CA5BAD71505B8C2E7E81F2F0CF9CD0"
+    },
+    {
+      "id": "6",
+      "name": "Laptop Gaming ASUS TUF A14 FA401WV",
+      "release date": "19 May 2004",
+      "image": "https://s13emagst.akamaized.net/products/75738/75737800/images/res_c31fad3e49f39d215e3935f047ffd845.jpg?width=720&height=720&hash=A54324A7643DA04F918C0B5B4152BE39"
+    }
+  ],
+  "games": [
+    {
+      "id": "1",
+      "name": "Warlords Battlecry III",
+      "release date": "19 May 2004",
+      "image": "https://www.gamespot.com/a/uploads/scale_medium/box/7/2/0/9/19841-57209.jpg"
+    },
+    {
+      "id": "2",
+      "name": "World Of Warcraft",
+      "release date": "23 noiembrie 2004",
+      "image": "https://w0.peakpx.com/wallpaper/314/133/HD-wallpaper-world-of-warcraft-clans-game-wow-thumbnail.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Starcraft 2",
+      "release date": "27 iulie 2010",
+      "image": "https://c4.wallpaperflare.com/wallpaper/462/187/784/starcraft-starcraft-ii-video-games-wallpaper-preview.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Age of Empires II",
+      "release date": "September 27, 1999",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ98xTkCpBJ-rIUZOLZsE8Gf8AP7XtfteOLCQ&s"
+    },
+    {
+      "id": "5",
+      "name": "Broforce",
+      "release date": "15 October 2015",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e6f32d4-5a3f-4988-9418-caeceeac89c7/ddisvvj-27625c5b-e190-4479-b41c-caca5deb576e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzllNmYzMmQ0LTVhM2YtNDk4OC05NDE4LWNhZWNlZWFjODljN1wvZGRpc3Z2ai0yNzYyNWM1Yi1lMTkwLTQ0NzktYjQxYy1jYWNhNWRlYjU3NmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.av-ik1a0TBSG9RHfeq9zysfhfE7Fy5egN9RSOkZAHdA"
+    },
+    {
+      "id": "6",
+      "name": "Recoil",
+      "release date": "March 11, 1999",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjY2MzA4ZTYtMGMxYy00MGRmLTkyZjEtMTkzNmRjZTk2NmE4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Heroes of Might and Magic II",
+      "release date": "1 octombrie 1996",
+      "image": "https://cdn2.steamgriddb.com/icon/8eafcde359d51e3e5386f19516e4ea65.ico"
+    },
+    {
+      "id": "8",
+      "name": "Heroes of Might and Magic III",
+      "release date": "28 februarie 1999",
+      "image": "https://c3.klipartz.com/pngpicture/413/576/sticker-png-heroes-of-might-and-magic-iii-hd-edition-dock-icon-thumbnail.png"
+    },
+    {
+      "id": "9",
+      "name": "Jazz Jackrabit 2",
+      "release date": "31 july 1994",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/4d04d46d-481e-452a-9bfd-75a8c1cc65a3/dffto58-558eec5c-d7bb-4395-ae62-990dfcbe78f9.png/v1/fill/w_512,h_512/jazz_jackrabbit_2_folder_icon_by_ans0sama_dffto58-fullview.png"
+    },
+    {
+      "id": "10",
+      "name": "Ricochet!",
+      "release date": "1 noiembrie 2000",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2xfb.jpg"
+    },
+    {
+      "id": "11",
+      "name": "ReVolt!",
+      "release date": "17 august 2000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYytRgMOEFBptXOQz1lLZOTlKs6XPEmQUDA&s"
+    },
+    {
+      "id": "12",
+      "name": "Donald Duck Going Quackers!",
+      "release date": "13 december 2000",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWQ2ZjNlNDEtNTYwYS00MmUxLTg2NzYtZTljOTYzMDc0ODEyXkEyXkFqcGc@._V1_.jpg"
+    }
+  ]
+}

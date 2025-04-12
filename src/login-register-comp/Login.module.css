@@ -1,0 +1,35 @@
+.register_container{
+    margin-top: 13em;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    border: 5px solid black;
+    border-radius: 15%;
+    height: 20em;
+    width: 25em;
+    background-color: rgba(99, 218, 242, 0.548);
+    z-index: 5;
+    color: black;
+}
+
+.options{
+    display: flex;
+    justify-content: center;
+    height: 66%;
+    width: inherit;
+    z-index: 3;
+}
+
+.register_item{
+    display: flex;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    color: rgb(0, 0, 0);
+    z-index: 4;
+    & a{
+        text-decoration: none;
+    }
+}
+
+
+

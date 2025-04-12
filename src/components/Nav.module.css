@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    background-color: rgb(61, 53, 88);
+    height: 2.5em;
+    align-items: center;
+    & a {
+        display: flex;
+        text-decoration: none;
+        color: grey;
+        padding: 0.5em;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+
+.container .item{
+    background-color: rgb(61, 53, 88);
+    &:hover{
+        background-color: rgb(48, 41, 69);
+    }
+    height: inherit;
+    align-content: center;
+}
+
+.container .lgItem{
+    display: flex;
+    margin-left: auto;
+    gap: 1em;
+    height: inherit;
+    & a {
+        align-items: center;
+        justify-content: center;
+        &:hover{
+            background-color: rgb(48, 41, 69);
+        }
+        height: inherit;
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-right: 0.5em;
+        padding-left: 0.5em;
+    }
+}
