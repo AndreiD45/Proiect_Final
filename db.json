@@ -1,16 +1,6 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "John Doe",
-      "email": "johndoe@example.com"
-    },
-    {
-      "id": "2",
-      "name": "Jane Smith",
-      "email": "janesmith@example.com"
-    },
-    {
       "id": "7740",
       "name": "Andrei",
       "email": "forandrei@yahoo.com",
@@ -23,6 +13,13 @@
       "email": "vlad@yahoo.com",
       "password": "2",
       "confirmPassword": "2"
+    },
+    {
+      "id": "fdf7",
+      "name": "Dan-Negru",
+      "email": "dan@negru.com",
+      "password": "dan",
+      "confirmPassword": "dan"
     }
   ],
   "hardware": [
