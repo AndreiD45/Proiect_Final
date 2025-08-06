@@ -20,6 +20,20 @@
       "email": "dan@negru.com",
       "password": "dan",
       "confirmPassword": "dan"
+    },
+    {
+      "id": "6b0b",
+      "name": "Iuliu",
+      "email": "iuliu@gmail.net",
+      "password": "3",
+      "confirmPassword": "3"
+    },
+    {
+      "id": "66d0",
+      "name": "Ion",
+      "email": "ion@bla.com",
+      "password": "123",
+      "confirmPassword": "123"
     }
   ],
   "hardware": [

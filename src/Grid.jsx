@@ -7,6 +7,7 @@ function Grid(){
 
     return(
         <>
+        <h1>Games</h1>
         <div className={styles.grid}>
         {GridItems(urlGames)}
         </div>

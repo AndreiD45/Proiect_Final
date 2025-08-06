@@ -1,7 +1,6 @@
 .grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: auto;
     gap: auto;
     padding-bottom: 3em;
 }
@@ -10,12 +9,25 @@
     display: inline-block;
     background-color: lightblue;
     text-align: center;
-    margin: 1em 1em 1em 1em;
+    height: 18em;
+    margin: 0.5em 0.5em 0.5em 0.5em;
     border: 3px solid;
-    & button {
+        & h3 {
+            margin: auto;
+            font-size: auto;
+            height: 1em;
+            overflow: hidden;
+        }
+}
+
+
+.divButton{
+    display: flex;
+        & button {
+        flex: 1;
         padding: 0.5em;
         gap: 1em;
-        margin: 1em;
+        margin: 0.5em;
         border-radius: 10%;
         &:hover {
             background-color: gray;

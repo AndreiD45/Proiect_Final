@@ -11,8 +11,8 @@ function GridItems(url){
                     <div key={item.id} className={styles.gridItem}>
                         <img className={styles.image}src={item.image} alt="Missing Picture" />
                         <h3>{item.name}</h3>
-                        <div>
-                        <button >Click me!</button>
+                        <div className={styles.divButton}>
+                        <button>Click me!</button>
                         <button>Buy me!</button>
                         </div>
                     </div>
